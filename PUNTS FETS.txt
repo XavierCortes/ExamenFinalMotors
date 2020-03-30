@@ -22,3 +22,6 @@ características:
 Blueprint:
 ○ Restart Game  (LETRA 'R')
 ● (0,5p) Aplicar la funcionalidad de que el player pueda poseer alguna IA. (LETRA 'P')
+
+
+RESTAS VIDA CON LA LETRA H
